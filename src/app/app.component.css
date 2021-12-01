@@ -1,0 +1,27 @@
+.cuadrado1 {
+  height: 80%;
+}
+.cuadrado2 {
+  height: 80%;
+}
+.w-80 {
+  width: 90%;
+  margin: auto;
+}
+nav {
+  height: 80%;
+}
+@media (max-width: 767px) {
+  .section1 {
+    height: 500px !important;
+  }
+  .section2 {
+    height: 700px !important;
+  }
+  .cuadrado1 {
+    height: 200px;
+  }
+  .cuadrado2 {
+    height: 200px;
+  }
+}
